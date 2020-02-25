@@ -1,0 +1,71 @@
+{
+    "success": true,
+    "data": {
+        "topicList": [{
+            "id": 1,
+            "title": "社会热点"
+        },
+        {
+            "id": 2,
+            "title": "手绘"
+        }],
+        "articalList": [{
+          "id": 1,
+          "title": "React PC端框架1",
+          "desc": "1. Ant Design AntDesign是阿里巴巴团队出品的ReactUI组件库。有自己独特的设计风格和理念。非常符合国人的审美需求。并...",
+          "imgurl": "/images/list1.png"
+        },
+        {
+          "id": 2,
+          "title": "React PC端框架2",
+          "desc": "1. Ant Design AntDesign是阿里巴巴团队出品的ReactUI组件库。有自己独特的设计风格和理念。非常符合国人的审美需求。并...",
+          "imgurl": "/images/list1.png"
+        },
+        {
+          "id": 3,
+          "title": "React PC端框架3",
+          "desc": "1. Ant Design AntDesign是阿里巴巴团队出品的ReactUI组件库。有自己独特的设计风格和理念。非常符合国人的审美需求。并...",
+          "imgurl": "/images/list1.png"
+        }],
+        "recomendList": [{
+          "id": 1,
+          "url": "/images/banner1.png"
+        },
+        {
+          "id": 2,
+          "url": "/images/banner2.png"
+        },
+        {
+          "id": 3,
+          "url": "/images/banner3.png"
+        },
+        {
+          "id": 4,
+          "url": "/images/banner4.png"
+        }],
+        "writerList": [{
+          "id": 1,
+          "name": "邓哲",
+          "number": "写了422.1k字 · 1.3k喜欢",
+          "pic": "/images/writer2.jpg"
+        },
+        {
+          "id": 2,
+          "name": "格列柯南",
+          "number": "写了422.1k字 · 1.3k喜欢",
+          "pic": "/images/writer4.jpg"
+        },
+        {
+          "id": 3,
+          "name": "Hobbit霍比特人",
+          "number": "写了422.1k字 · 1.3k喜欢",
+          "pic": "/images/writer3.jpg"
+        },
+        {
+          "id": 4,
+          "name": "简书钻首席小管家",
+          "number": "写了422.1k字 · 1.3k喜欢",
+          "pic": "/images/writer1.jpg"
+        }]
+    }
+}
